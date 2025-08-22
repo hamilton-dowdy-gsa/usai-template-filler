@@ -12,10 +12,12 @@
   "dependencies": {
     "docxtemplater": "^3.65.3",
     "file-saver": "^2.0.5",
+    "materialize-css": "^1.0.0",
     "papaparse": "^5.5.3",
     "pizzip": "^3.2.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
